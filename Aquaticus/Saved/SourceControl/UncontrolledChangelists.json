@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/K-B/Desktop/K-B Folder/Unreal/Aquaticus/Content/Maps/Mock_Aquaticus.umap",
+				"C:/Users/K-B/Desktop/K-B Folder/Unreal/Aquaticus/Content/Mock_Aquaticus.umap",
+				"C:/Users/K-B/Desktop/K-B Folder/Unreal/CTF/Aquaticus/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/K-B/Desktop/K-B Folder/Unreal/CTF/Aquaticus/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/K-B/Desktop/K-B Folder/Unreal/CTF/Aquaticus/Content/Mock_Aquaticus.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,68 @@
+#################################
+# Unreal Engine Generated Files #
+#################################
+/[Bb]uild
+/[Bb]uilds
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+# Ignore specific files in the Content directory, but track .uasset and .umap files
+/Content/**
+!/Content/**/*.uasset
+!/Content/**/*.umap
+
+# Ignore all StarterContent subfolders
+/Aquaticus/Content/StarterContent
+
+# Ignore specific files in the Plugins directory, but track .uplugin files
+/Plugins/**
+!/Plugins/**/*.uplugin
+
+#################################
+# Visual Studio Generated Files #
+#################################
+# Cache Directory
+.vs
+# User Specific Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# CPP Cache Files
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+# Solution Files
+*.sln
+# VSCode Cache Directory
+.vscode
+# VSCode History Files
+**/.history
+
+#################################
+# Miscellaneous Generated Files #
+#################################
+*.log
+
+#################################################
+# Do not ignore source, config, and plugins dir. #
+#################################################
+!/Source/**
+!/Config/**
+!/Plugins/**
+
+#################################################
+# Track all files in the Config directory        #
+#################################################
+/Config/**
+
+###########################################################
+# Only allow .uasset and .umap files from /Content dir.    #
+# They're tracked by git-lfs, don't forget to track other #
+# files if adding them here.                               #
+###########################################################
+/Aquaticus/Intermediate
